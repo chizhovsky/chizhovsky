@@ -1,6 +1,6 @@
 Hello 👋 My name is Alexey 👋 
 
-- I work as QA Automation Engineer at Apex Software
+- I work as QA Engineer at Apex Software
 - I test the services of Alfa-Bank, one of the largest banks in Russia
 - In my free time, I create games in Unity, develop Telegram bots and write code
 - My favorite programming languages and tools are listed below
